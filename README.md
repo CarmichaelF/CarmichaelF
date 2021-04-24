@@ -4,7 +4,7 @@
 You have finally discovered my Github profile, congrats! 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 
-Ask me anything [**here.**](https://github.com/CarmichaelF/CarmichaelF/issues/new) 
+> Ask me anything [**here**](https://github.com/CarmichaelF/CarmichaelF/issues/new) 
 or [**email**](mailto:carmichaelferreira06@gmail.com) me.
 ## A little bit about me: 😊
 
